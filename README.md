@@ -1,12 +1,12 @@
 # awesome-puck
-✨ Awesome [Puck](https://puckeditor.com) plugins, custom fields and resources
+✨ Awesome [Puck](https://puckeditor.com) plugins, custom fields and resources.
 
 <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 
 ## Resources
 
-* [puckeditor.com](https://puckeditor.com): The official documentation
-* [Puck](https://github.com/measuredco/puck): The Puck codebase 
+* [puckeditor.com](https://puckeditor.com): The official documentation.
+* [Puck](https://github.com/measuredco/puck): The Puck codebase.
 
 ## Plugins
 
