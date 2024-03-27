@@ -22,4 +22,6 @@
 
 ## Used by
 
+* [Measured](https://measured.co)
 * [ReRoto](https://reroto.com)
+* [wellpaid.io](https://wellpaid.io)
