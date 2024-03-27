@@ -14,4 +14,12 @@
 
 ## Custom fields
 
-Nothing here yet.
+* [field-contentful](https://github.com/measuredco/puck/tree/main/packages/field-contentful): Select and load data from Contentful.
+
+## Components
+
+* [rich-text](https://www.npmjs.com/package/@tohuhono/puck-rich-text): A rich text component with an inline editor.
+
+## Used by
+
+* [ReRoto](https://reroto.com)
