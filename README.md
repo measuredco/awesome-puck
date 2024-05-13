@@ -20,6 +20,10 @@
 
 * [rich-text](https://www.npmjs.com/package/@tohuhono/puck-rich-text): A rich text component with an inline editor.
 
+## CMS/DXP Stacks
+
+* [PowerStack](https://github.com/powerstackdev/power-stack)
+
 ## Used by
 
 * [DCKAP](https://www.dckap.com)
