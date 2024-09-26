@@ -32,3 +32,4 @@
 * [ReRoto](https://reroto.com)
 * [wellpaid.io](https://wellpaid.io)
 * [jumpcomedy.com](https://www.jumpcomedy.com)
+* [PartyRentalPlatform](https://partyrentalplatform.com/) - As a website builder. [CentralArkansasInflatables](https://centralarkansasinflatables.com/) for example.
