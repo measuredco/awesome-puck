@@ -7,6 +7,7 @@
 
 * [puckeditor.com](https://puckeditor.com): The official documentation.
 * [Puck](https://github.com/measuredco/puck): The Puck codebase.
+* [Puck demo](https://github.com/Back2Dev/bottom): A standalone puck demo app
 
 ## Plugins
 
